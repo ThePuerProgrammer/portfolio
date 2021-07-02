@@ -3,7 +3,7 @@
 </template>
 <script>
 export default {
-  name: "Home",
+  name: "Sidebar",
 };
 </script>
 <style scoped>
